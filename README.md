@@ -38,7 +38,6 @@ The preprocessing module (`preprocessing.py`) implements the following steps:
    - 70% Training
    - 15% Validation
    - 15% Testing
-   - 5-fold Cross-Validation support
 
 ## Installation
 
