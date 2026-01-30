@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-ee4c2c.svg)](https://pytorch.org/)
 
 ## Project Overview
-This repository contains the source code for a novel hybrid deep learning framework designed for the effective prediction of Chronic Kidney Disease (CKD) from tabular medical data.
+This repository contains the source code for a hybrid deep learning framework designed for the effective prediction of Chronic Kidney Disease (CKD) from tabular medical data.
 
 Addressing the challenges of small sample sizes and missing values in medical datasets, our framework integrates three key components:
 1.  **Layer 1: Self-Supervised Contrastive Learning (SSCL):** Learns robust semantic representations from unlabeled data using tabular augmentation and InfoNCE loss.
