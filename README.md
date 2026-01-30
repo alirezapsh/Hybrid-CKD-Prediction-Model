@@ -11,7 +11,7 @@ This repository contains the source code for a hybrid deep learning framework de
 Addressing the challenges of small sample sizes and missing values in medical datasets, our framework integrates three key components:
 1.  **Layer 1: Self-Supervised Contrastive Learning (SSCL):** Learns robust semantic representations from unlabeled data using tabular augmentation and InfoNCE loss.
 2.  **Layer 2: Transformer Architecture:** Captures complex, non-linear, and long-range dependencies between clinical features using Multi-Head Attention.
-3.  **Layer 3: Metaheuristic Algortithm:** A meta-heuristic algorithm used to automatically fine-tune the hyperparameters of the deep learning models.
+3.  **Layer 3: Metaheuristic Algortithm:** Meta-heuristic algorithms used to automatically fine-tune the hyperparameters of the deep learning models.
 
 ## Dataset
 
